@@ -13,4 +13,4 @@
 - **outage** |ˈaʊdɪdʒ|
   - `noun` a period when a power supply or other service is not available or when equipment is closed down.
 
-[Top](#index)
+[↑Top](#index)
