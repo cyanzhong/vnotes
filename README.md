@@ -7,5 +7,10 @@
 - **innovation** |ˌɪnəˈveɪʃ(ə)n|
   - `noun` the action or process of innovating.
     > a new method, idea, product, etc.: technological innovations designed to save energy.
+    
+# O
+
+- **outage** |ˈaʊdɪdʒ|
+  - `noun` a period when a power supply or other service is not available or when equipment is closed down.
 
 [Top](#index)
